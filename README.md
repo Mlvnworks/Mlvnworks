@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mlvnworks
 - 👀 I’m interested in interested in me. 
-- 🌱 Im Currently learning Web development own my own,'cause for me this is the only thing that i enjoying to doing.
+- 🌱 Im Currently learning Web development own my.
 - 💞️ Single maybe.
 - 📫 You Can Contact me through facebook (Melvin Agustin)
 
