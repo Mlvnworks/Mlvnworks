@@ -1,17 +1,3 @@
-```js
-// ==============================
-//   Code. Eat. Sleep. Repeat.
-// ==============================
-
-//      (\_/)
-//      (•_•)
-//     / >💻   coding mode: ON
-
-while (alive) {
-  code();
-  eat();
-  sleep();
-  repeat();
-}
-
-// status: still debugging life
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="250" alt="coding gif">
+</p>
